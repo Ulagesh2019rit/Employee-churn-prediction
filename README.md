@@ -2,7 +2,7 @@
   Services used: 
     Microsoft azure machine learning studio
 # Azure ML studio Gallery link:
-  https://gallery.cortanaintelligence.com/Experiment/ML-Employee-Churn-Prediction-ulagesh
+  https://gallery.cortanaintelligence.com/Experiment/Employee-churn-prediction-ulagesh7
   
 
  # Detailed description:
