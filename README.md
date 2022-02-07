@@ -18,22 +18,29 @@ After creating, run the model by clicking run. we can score and evaluate the mod
 
  # Screenshots:
  ML Model:
-  ![Screenshot 2022-02-04 at 10-42-26 Experiments - Microsoft Machine Learning Studio (classic)](https://user-images.githubusercontent.com/89579978/152477562-f58c9571-e4be-4ba6-a1cf-18af9ca1f311.png)
+  ![image](https://user-images.githubusercontent.com/89579978/152802383-3c0a6779-53c9-4258-82b1-8e0a275b4a59.png)
+
+
   -------------------------------------
   -------------------------------------
-  ![Screenshot 2022-02-04 at 10-40-38 Experiments - Microsoft Machine Learning Studio (classic)](https://user-images.githubusercontent.com/89579978/152477530-8c80a5fe-e5d7-4a88-80dd-8ae8ec09057c.png)
+ ![image](https://user-images.githubusercontent.com/89579978/152802443-912563de-125b-4a16-8ed8-02a78d482d57.png)
+
+
   --------------------------------------
   --------------------------------------
-  ![Screenshot 2022-02-04 at 10-41-18 Experiments - Microsoft Machine Learning Studio (classic)](https://user-images.githubusercontent.com/89579978/152477533-69900c66-2f32-4962-9353-3a83154b48ed.png)
+ ![image](https://user-images.githubusercontent.com/89579978/152801585-7dfec639-6429-4d89-8bdb-2292984d8f6e.png)
+
   --------------------------------------
   --------------------------------------
-  ![Screenshot 2022-02-04 at 10-41-31 Experiments - Microsoft Machine Learning Studio (classic)](https://user-images.githubusercontent.com/89579978/152477543-d0743e4a-09ec-4edd-8e3d-080e1d0aa9c0.png)
+  ![image](https://user-images.githubusercontent.com/89579978/152802601-fdbfe1f8-6efb-4357-9655-657d38212968.png)
+
    --------------------------------------
   --------------------------------------
   
-![Screenshot 2022-02-04 at 10-41-50 Experiments - Microsoft Machine Learning Studio (classic)](https://user-images.githubusercontent.com/89579978/152477549-58901502-7ae5-46a7-9bd4-48c54754cb09.png)
+![image](https://user-images.githubusercontent.com/89579978/152802666-0fb9bab3-ba68-4cb1-a539-64ed41aad1f6.png)
+
  --------------------------------------
   --------------------------------------
-![Screenshot 2022-02-04 at 10-42-15 Experiments - Microsoft Machine Learning Studio (classic)](https://user-images.githubusercontent.com/89579978/152477553-e5f1026d-89e8-4e9e-a550-bd8eb1621aae.png)
+![image](https://user-images.githubusercontent.com/89579978/152802739-c58f2c0b-1486-4a6f-ab25-831ebe61a3a7.png)
 
  ---------------------------------------------------------------------------
